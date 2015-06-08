@@ -1,4 +1,7 @@
 package textmessage;
+
+//something new hehe tanggal 8 Juni today
+
 public class draft extends javax.swing.JFrame {
     public draft() {
         initComponents();
